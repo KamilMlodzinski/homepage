@@ -1,0 +1,28 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+
+.header {
+    background-color: red;
+    text-align: center;
+    padding: 30px;
+    border-radius: 63px;
+    font-size: xx-large;
+}
+
+
+.footer {
+    text-align: center;
+    max-width: 100%;
+    margin-top: 70px;
+    padding: 20px;
+    color: green;
+    background-color: gray;
+}

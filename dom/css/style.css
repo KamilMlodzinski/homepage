@@ -1,0 +1,30 @@
+html{
+    box-sizing: border-box;
+}
+*,::after,::before{
+    box-sizing: inherit;
+}
+
+.naglowek {
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+.header {
+    background-color: red;
+    text-align: center;
+    padding: 30px;
+    border-radius: 63px;
+    font-size: xx-large;
+}
+.nav {
+    background-color: yellowgreen;
+    max-width: 100%;
+    padding: 20px 165px;
+}
+.tabela {
+    margin: 5px auto;
+}
+.cell {
+    padding: 5px 40px;
+}

@@ -1,0 +1,51 @@
+html{
+    box-sizing: border-box;
+}
+*,::after,::before{
+    box-sizing: inherit;
+}
+
+.naglowek {
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+.header {
+    background-color: red;
+    text-align: center;
+    padding: 30px;
+    border-radius: 63px;
+    font-size: xx-large;
+}
+.nav {
+    background-color: yellowgreen;
+    max-width: 100%;
+    padding: 20px 165px;
+}
+.tabela {
+    margin: 5px auto;
+}
+.cell {
+    padding: 5px 40px;
+}
+
+.tabela {
+border-collapse: collapse;
+width: 100%;
+}
+
+.tableCell {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+}
+.caption{
+    caption-side: bottom;
+    text-align: right;
+    margin-top: 20px;
+}
+.tableHeader{
+    background-color: crimson;
+    color: white;
+    font-weight: normal;
+}

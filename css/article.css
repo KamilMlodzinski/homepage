@@ -1,0 +1,63 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+    box-sizing: inherit;
+}
+
+.body{
+    max-width: 1000px;
+    text-align: center;
+}
+
+.navigation__primary {
+    margin: 5px auto;
+    text-align: center;
+    background-color: yellowgreen;
+    max-width: 100%;
+    padding: 20px 165px;
+    border-radius: 35px;
+
+}
+
+.navigation__central {
+    padding: 5px 40px;
+    text-decoration: none;
+}
+.article__photo{
+    width: 250px; 
+    height: 250px;
+}
+
+.article__header {
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+
+.table {
+    border-collapse: collapse;
+}
+
+.table__caption {
+    caption-side: bottom;
+    text-align: right;
+    margin-top: 20px;
+}
+
+.table__cell--header {
+    background-color: crimson;
+    color: white;
+    font-weight: normal;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.table__cell {
+    border: 1px solid #ccc;
+    padding: 20px;
+    text-align: center;
+}
