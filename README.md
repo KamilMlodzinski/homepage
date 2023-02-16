@@ -7,4 +7,4 @@
 - All variables are described in the BEM convention.
 
 ## demo
-[homepage](https://kamilmlodzinski.github.io/homepage/indeks.html)
+[homepage](https://kamilmlodzinski.github.io/homepage)
